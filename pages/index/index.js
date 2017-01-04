@@ -1,9 +1,12 @@
 //index.js
 //获取应用实例
+
 var app = getApp()
 Page({
-
-  wxevent:function(){
-    console.log("wxevent")
+  data:{
+    url:'/pages/events/events',
+    url2:'/pages/templates/templates',
+    url3:'/pages/views/views',
+    url4:'/pages/scroll/scroll'
   }
 })

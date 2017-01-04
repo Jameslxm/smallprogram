@@ -1,0 +1,15 @@
+<view id="tapTest" data-hi="MINA" bindtap="tapName">
+    click me
+</view>
+<view id="outter" bindtap="handleTap1">
+    <view id="middle" catchtap="handleTap2">
+        middle view
+        <view id="inner" bindtap="handleTap3">
+            inner view
+        </view>
+    </view>
+</view>
+
+<view data-alpha="1" data-alphaBeta="2" bindtap="bindViewTap">
+    DataSet Test
+</view>

@@ -1,1 +1,22 @@
-<view bindtap="wxevent">1、微信小程序 事件</view>
+<navigator url="{{url}}">
+    <view id="tapTest" data-hi="MINA" bindtap="tapName">
+    1、微信小程序 事件  
+    </view>
+</navigator>
+<navigator url="{{url2}}">
+    <view id="tapTest" data-hi="MINA">
+    2、微信小程序 引用  
+    </view>
+</navigator>
+<navigator url="{{url3}}">
+    <view id="tapTest" data-hi="MINA">
+    3、微信小程序 视图容器view
+    </view>
+</navigator>
+<navigator url="{{url4}}">
+    <view id="tapTest" data-hi="MINA">
+    4、微信小程序 视图容器ScrollView
+    </view>
+</navigator>
+<inport src="template.wxml"/>
+<template is="item" data="{{text:'forbar'}}"/>

@@ -1,7 +1,13 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/events/events",
+    "pages/templates/templates",
+    "pages/views/views",
+    "pages/scroll/scroll"
+    
+
   ],
   "window":{
     "backgroundTextStyle":"light",
