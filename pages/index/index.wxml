@@ -1,0 +1,1 @@
+<view bindtap="wxevent">1、微信小程序 事件</view>
