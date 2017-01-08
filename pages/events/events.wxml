@@ -1,6 +1,7 @@
 <view id="tapTest" data-hi="MINA" bindtap="tapName">
     click me
 </view>
+<view bindtap="tap1">1、wxapp表单组件 button</view>
 <view id="outter" bindtap="handleTap1">
     <view id="middle" catchtap="handleTap2">
         middle view

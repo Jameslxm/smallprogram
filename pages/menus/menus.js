@@ -1,0 +1,22 @@
+// pages/menus/menus.js
+Page({
+  data:{
+    url1:'/pages/btn/btn',
+    url2:'/pages/checkbox/checkbox',
+    url3:'/pages/forms/forms',
+    url4:'/pages/input/input',
+    url5:'/pages/label/label',
+    url6:'/pages/picker/picker',
+    url7:'/pages/pickerview/pickerview',
+    url8:'/pages/radio/radio',
+    url9:'/pages/sliper/sliper',
+    url10:'/pages/switch/switch',
+    url11:'/pages/textarea/textarea',
+    url12:'/pages/actionsheet/actionsheet',
+    url13:'/pages/model/model',
+    url14:'/pages/toast/toast',
+    url15:'/pages/loading/loading',
+    url16:'/pages/navigator/navigator',
+    url17:'/pages/audio/audio'
+  }
+})

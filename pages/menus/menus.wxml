@@ -1,0 +1,56 @@
+<!--pages/menus/menus.wxml-->
+<navigator url="{{url1}}">
+    <view>1、wxapp表单组件 button</view>
+</navigator>
+<navigator url="{{url2}}">
+    <view>2、wxapp表单组件 checkbox button</view>
+</navigator>
+<navigator url="{{url3}}">
+    <view>3、wxapp表单组件 form</view>
+</navigator>
+<navigator url="{{url4}}">
+    <view >4、wxapp表单组件 input</view>
+</navigator>
+<navigator url="{{url5}}">
+    <view>5、wxapp表单组件 label</view>
+</navigator>
+<navigator url="{{url6}}">
+    <view>6、wxapp表单组件 picker</view>
+</navigator>
+<navigator url="{{url7}}">
+    <view>7、wxapp表单组件 picker-view</view>
+</navigator>
+<navigator url="{{url8}}">
+    <view>8、wxapp表单组件 radio</view>
+</navigator>
+<navigator url="{{url9}}">
+    <view>9、wxapp表单组件 sliper</view>
+</navigator>
+<navigator url="{{url10}}">
+    <view>10、wxapp表单组件 switch</view>
+</navigator>
+<navigator url="{{url11}}">
+    <view>11、wxapp表单组件 textarea</view>
+</navigator>
+<navigator url="{{url12}}">
+    <view>12、wxapp表单组件 action-sheet</view>
+</navigator>
+<navigator url="{{url13}}">
+    <view>13、wxapp表单组件 model</view>
+</navigator>
+<navigator url="{{url14}}">
+    <view>14、wxapp表单组件 toast</view>
+</navigator>
+<navigator url="{{url15}}">
+    <view>15、wxapp表单组件 loading</view>
+</navigator>
+<navigator url="{{url16}}">
+    <view>16、wxapp表单组件 navigator</view>
+</navigator>
+<navigator url="{{url17}}">
+    <view>17、wxapp表单组件 audio</view>
+</navigator>
+<view bindtap="tap7">7、wxapp表单组件 radio-group</view>
+<view bindtap="tap8">8、wxapp表单组件 slider</view>
+<view bindtap="tap9">9、wxapp表单组件 switch</view>
+<view bindtap="tap10">10、wxapp表单组件 textarea</view>

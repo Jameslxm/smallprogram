@@ -1,0 +1,18 @@
+<view class="group">
+  <block wx:for="{{iconSize}}" wx:key="iddex">
+    <icon type="success" size="{{item}}"/>
+  </block>
+</view>
+
+<view class="group">
+  <block wx:for="{{iconType}}" wx:key="iddex">
+    <icon type="{{item}}" size="45"/>
+  </block>
+</view>
+
+
+<view class="group">
+  <block wx:for="{{iconColor}}" wx:key="iddex">
+    <icon type="success" size="45" color="{{item}}"/>
+  </block>
+</view>

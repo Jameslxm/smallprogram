@@ -1,11 +1,34 @@
 {
   "pages":[
+    
     "pages/index/index",
-    "pages/logs/logs",
     "pages/events/events",
+    "pages/logs/logs",
+    "pages/menus/menus",
+    "pages/audio/audio",
+    "pages/model/model",
+    "pages/toast/toast",
+    "pages/loading/loading",
+    "pages/navigator/navigator",
+    "pages/switch/switch",
+    "pages/sliper/sliper",
+    "pages/radio/radio",
+    "pages/textarea/textarea",
+    "pages/actionsheet/actionsheet",
+    "pages/picker/picker",
+    "pages/pickerview/pickerview",
+    "pages/label/label",
+    "pages/forms/forms",
+    "pages/input/input",
     "pages/templates/templates",
     "pages/views/views",
-    "pages/scroll/scroll"
+    "pages/scroll/scroll",
+    "pages/swipe/swipe",
+    "pages/icons/icons",
+    "pages/texts/texts",
+    "pages/pro/pro",
+    "pages/btn/btn",
+    "pages/checkbox/checkbox"
     
 
   ],

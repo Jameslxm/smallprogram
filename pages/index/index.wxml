@@ -18,5 +18,31 @@
     4、微信小程序 视图容器ScrollView
     </view>
 </navigator>
-<inport src="template.wxml"/>
-<template is="item" data="{{text:'forbar'}}"/>
+<navigator url="{{url5}}">
+    <view id="tapTest" data-hi="MINA">
+    5、微信小程序 视图容器Swiper
+    </view>
+</navigator>
+<navigator url="{{url6}}">
+    <view id="tapTest" data-hi="MINA">
+    6、微信小程序 视图容器icon
+    </view>
+</navigator>
+<navigator url="{{url7}}">
+    <view id="tapTest" data-hi="MINA">
+    7、微信小程序 视图容器text
+    </view>
+</navigator>
+<navigator url="{{url8}}">
+    <view id="tapTest" data-hi="MINA">
+    8、微信小程序 视图容器progress
+    </view>
+</navigator>
+<navigator url="{{url9}}">
+    <view id="tapTest" data-hi="MINA">
+    9、微信小程序表单组件
+    </view>
+</navigator>
+
+
+
